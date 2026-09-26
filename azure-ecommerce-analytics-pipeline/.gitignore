@@ -1,0 +1,14 @@
+# Data files
+ecommerce-data/
+*.csv
+*.xlsx
+
+# Credentials / secrets
+*.env
+*.pfx
+*credentials*
+
+# OS/editor junk
+.vscode/
+*.pyc
+__pycache__/
